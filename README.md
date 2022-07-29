@@ -1,5 +1,5 @@
 
-Skills:
+
 - Experienced PHP(laravel) | node.js | Exprss.js |React.js |Redux |Python(Django,flask).
 - Experienced JavaScript Engineer.
 - JS front-end framework - React.js|Vue.js |Next.js.
